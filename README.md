@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2015-01-25
+    Date        : 2015-03-17
 
     Copyright   : Copyright (C) 2015  Felix C. Stegerman
 
@@ -10,11 +10,15 @@
 
 ## Description
 
-  cryptoparty/privacycafe slides (w/ notes)
+  slides for guest lecture @ avans on 20150313
+
+  based on cryptoparty/privacycafe slides (w/ notes)
 
   &rarr; https://cryptoparty.in
   <br/>
   &rarr; https://privacycafe.nl
+  <br/>
+  &rarr; https://github.com/obfusk/cryptoparty-privacycafe-slides
 
   Made w/ [remark](http://remarkjs.com).
 
@@ -59,6 +63,7 @@
   * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
   * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit (privacy cafe logo)
   * https://twitter.com/kirschner/status/537558219804377088 (no cloud)
+  * "Ton" images via Bits of Freedom
 
 []: }}}1
 
